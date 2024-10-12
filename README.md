@@ -140,4 +140,5 @@ if __name__ == "__main__":
 ```
 
 ## output:
-![image](https://github.com/user-attachments/assets/f95ae176-846e-465c-b805-62763865333f)
+![image](https://github.com/user-attachments/assets/b010a1e4-b886-445b-a8a1-478c6a1be600)
+
